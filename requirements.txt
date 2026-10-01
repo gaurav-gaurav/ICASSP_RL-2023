@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+opencv-python
+pillow
+
+torch
+torchvision
+
+# Simulation
+pybullet
+gym

@@ -1,0 +1,25 @@
+# Training output
+log/
+logs/
+runs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Figures and recordings
+*.mp4
+*.gif
+!docs/*.gif
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

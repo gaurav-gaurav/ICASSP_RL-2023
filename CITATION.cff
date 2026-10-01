@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+authors:
+  - family-names: Chaudhary
+    given-names: Gaurav
+  - family-names: Behera
+    given-names: Laxmidhar
+  - family-names: Sandhan
+    given-names: Tushar
+title: "Active Perception System for Enhanced Visual Signal Recovery Using Deep Reinforcement Learning"
+type: conference-paper
+conference:
+  name: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
